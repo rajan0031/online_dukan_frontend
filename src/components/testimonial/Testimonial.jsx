@@ -60,11 +60,11 @@ function Testimonial() {
 
             <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
               <div className="h-full text-center">
-                <a href="https://www.instagram.com/dhananjay081?igsh=MW1xYm0xcmhkZGR6bw==">
+                <a href="#">
                   <img
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                    src="./img/dhananjay.jpg"
+                    src=""
                   />
                 </a>
                 <p
