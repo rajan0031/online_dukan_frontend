@@ -1,6 +1,9 @@
 // here we are defining the host of the main api
-export const host = 'http://localhost:8000';
+// export const host = 'http://localhost:8000';
 
+
+
+export const host = 'https://online-dukan-backend.onrender.com';
 
 // api routes for the adding a shop products to the online dukan 
 
